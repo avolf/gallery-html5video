@@ -1,7 +1,7 @@
 <?php defined("SYSPATH") or die("No direct script access.");
 /**
- * Gallery - a web based photo album viewer and editor
- * Copyright (C) 2000-2009 Bharat Mediratta
+ * html5video
+ * Copyright (C) 2014 Alexander Volf
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
